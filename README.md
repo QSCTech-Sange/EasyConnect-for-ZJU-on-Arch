@@ -9,7 +9,7 @@ A version **NOT** specifically for ZJU can be downloaded from [EasyConnect-767](
 git clone https://gitee.com/ilovedorothy/EasyConnect-for-ZJU-on-Arch
 cd EasyConnect-for-ZJU-on-Arch
 sudo pacman -U easyconnect-7.6.3.0.86415-1-x86_64.pkg.tar.xz
-sudo cp -r lib /usr/share/sangfor/easyconnect/
+sudo cp -r lib /usr/share/sangfor/EasyConnect/
 ```
 
 To make it fast for China users, I push the repo to the Gitee and all the codes above will enable you to download the file from Gitee. It’s a release package so it’s relatively big, around 40M. 
