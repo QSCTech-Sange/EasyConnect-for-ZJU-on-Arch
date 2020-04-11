@@ -30,5 +30,5 @@ If you want to build it yourself, you can check the acknowledgement. It’s a bi
 
 Thanks to [alk3p](https://github.com/alk3p), who did the most work for making EasyConnect compatible on Arch. Thanks for his every reply for my questions. The original package is [EasyConnect-767](https://github.com/alk3p/EasyConnect-767).
 
-Also Thanks to this [link](https://zzzmh.cn/single?id=93), which helps me fix the `Harfbuzz` problem. Thanks to the 
+Also Thanks to this [link](https://zzzmh.cn/single?id=93), which helps me fix the `Harfbuzz` problem. 
 
